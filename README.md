@@ -2,7 +2,7 @@
 Implementation of the paper [Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification](https://arxiv.org/abs/1811.10144), ICCV 2019 (Oral)
 
 
-The SSG approach proposed in the paper is simple yet effective and achieves the state-of-arts on three re-ID datasets: Market1501, DukdMTMC and MSMT17.
+The SSG approach proposed in the paper is simple yet effective and achieves the state-of-arts on three re-ID datasets: Market1501, DukeMTMC and MSMT17.
 
 ![Illustration of the Self-similarity Grouping.](./figs/framework.png)
 
